@@ -1,6 +1,6 @@
 # Introdução
 
-A diabetes tipo 1 é uma doença que atinge mais de 12 milhões de brasileiros segundo o International Diabetes Federation (IDF).  
+A diabetes tipo 1 é uma doença que atinge mais de 12 milhões de brasileiros segundo o ATLAS DE DIABETES IDF - 8ª EDIÇÃO (http://diabetesatlas.org/across-the-globe.html).  
 O Diabetes Mellitus do tipo 1 (DM1) é considerado uma doença endócrina autoimune órgão-específica, resulta da destruição seletiva das células beta das ilhotas pancreáticas, produtoras de insulina, pela infiltração progressiva de células inflamatórias, particularmente por
 linfócitos T autorreativos. As manifestações clínicas do distúrbio metabólico surgem quando cerca de 80% das células beta pancreáticas são destruídas (LIU; EISENBARTH,2002). 
 Pessoas com diabetes tipo 1 são chamadas de insulinodependentes pois são totalmente dependentes de aplicações de insulina de acordo com a dieta e alimentação no dia a dia. O controle da quantidade de insulina aplicada e o alimento digerido pelo diabético é essencial para uma vida normal e longe de riscos que a doença traz quando não tratada corretamente. 
